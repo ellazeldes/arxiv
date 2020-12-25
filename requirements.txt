@@ -1,0 +1,7 @@
+jupyter
+pandas
+networkx
+scipy
+tqdm
+matplotlib
+rpy2
